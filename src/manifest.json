@@ -1,0 +1,9 @@
+{
+    "name": "Stratus",
+    "version": "0.0.1",
+    "description": "Chrome extension to bookmark and search on the fly without context switching",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "index.html"
+    }
+}
